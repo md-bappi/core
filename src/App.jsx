@@ -8,7 +8,7 @@ import Navbar from "./components/Navbar";
 
 const App = () => {
   return (
-    <div className="app">
+    <div className="app overflow-x-hidden">
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
