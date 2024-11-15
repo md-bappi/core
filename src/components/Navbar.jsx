@@ -6,7 +6,7 @@ import { IoIosArrowDown } from "react-icons/io";
 const Navbar = () => {
   return (
     <nav className=" bg-gray-900 text-gray-50">
-      <div className="container mx-auto w-screen h-16 flex justify-between items-center px-1 lg:px-0 lg:h-20">
+      <div className="container mx-auto w-screen h-16 flex justify-between items-center px-1 lg:px-10 lg:h-20">
         <div className="nav-lef flex justify-center items-center gap-32">
           <div className="nav-log flex justify-center items-center">
             <img
