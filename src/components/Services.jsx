@@ -43,7 +43,7 @@ const data = [
 const Services = () => {
   return (
     <div className="services my-[5vw] w-full ">
-      <h2 className="title text-center w-10/12 mx-auto text-3xl font-semibold font-poppins md:w-1/3 md:text-[4xl] mb-6 lg:text-[3vw] leading-tight">
+      <h2 className="title text-center w-10/12 mx-auto text-3xl font-semibold font-poppins md:w-1/3 md:text-[4xl] mb-6 lg:text-[3vw] leading-loose lg:mt-32">
         We provide effective design solutions
       </h2>
 

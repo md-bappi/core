@@ -9,16 +9,18 @@ import Footer from "./components/Footer";
 
 const App = () => {
   return (
-    <div className="app overflow-x-hidden">
-      <Navbar />
-      <Routes>
-        <Route path="/" element={<Home />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/blog" element={<Blog />} />
-        <Route path="/contact" element={<Contact />} />
-      </Routes>
+    <>
+      <div className="app overflow-x-hidden min-h-screen">
+        <Navbar />
+        <Routes>
+          <Route path="/" element={<Home />} />
+          <Route path="/about" element={<About />} />
+          <Route path="/blog" element={<Blog />} />
+          <Route path="/contact" element={<Contact />} />
+        </Routes>
+      </div>
       <Footer />
-    </div>
+    </>
   );
 };
 

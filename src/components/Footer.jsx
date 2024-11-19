@@ -9,7 +9,7 @@ import {
 const Footer = () => {
   return (
     <div className="footer bg-gray-900 w-full">
-      <div className="footer-container container mx-auto py-20 grid grid-cols-1 gap-8 lg:grid-cols-5">
+      <div className="footer-container container mx-auto px-3 py-20 grid grid-cols-1 gap-8 lg:grid-cols-5">
         <div className="footer-left  text-lime-50 text-center flex flex-col gap-4 mb-6 col-span-3 md:gap-8 lg:text-left">
           <h2
             className="footer-title text-3xl font-semibold
@@ -54,7 +54,7 @@ const Footer = () => {
           </div>
         </div>
 
-        <form className="footer-right text-lime-50 flex flex-col gap-5 px-3 col-span-2">
+        <form className="footer-right text-lime-50 flex flex-col gap-5  col-span-2">
           <h2 className=" text-2xl font-poppins">Send us a message</h2>
 
           <input

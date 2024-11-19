@@ -16,7 +16,7 @@ const Team = () => {
         We have a team of creative people
       </h2>
 
-      <div className="team-container container mx-auto px-3 grid grid-cols-1 md:grid-cols-2 md:gap-8 md:px-0 lg:grid-cols-4">
+      <div className="team-container container mx-auto px-3 grid grid-cols-1 md:grid-cols-2 md:gap-8 md:px-0 lg:grid-cols-4 lg:px-3">
         <div className="team-content">
           <div className=" relative">
             <img
