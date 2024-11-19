@@ -26,19 +26,19 @@ const Team = () => {
             />
 
             <div className="social-media flex gap-1 text-4xl  absolute bottom-8 left-1/2 -translate-x-1/2 ">
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className=" border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaTwitter />
               </span>
 
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className=" border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaFacebookF />
               </span>
 
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className=" border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaInstagramSquare className=" rounded-full" />
               </span>
 
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className="border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaLinkedinIn />
               </span>
             </div>
@@ -59,19 +59,19 @@ const Team = () => {
             />
 
             <div className="social-media flex gap-1 text-4xl  absolute bottom-8 left-1/2 -translate-x-1/2 ">
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className=" border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaTwitter />
               </span>
 
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className="border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaFacebookF />
               </span>
 
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className="border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaInstagramSquare className=" rounded-full" />
               </span>
 
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className="border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaLinkedinIn />
               </span>
             </div>
@@ -91,19 +91,19 @@ const Team = () => {
             />
 
             <div className="social-media flex gap-1 text-4xl  absolute bottom-8 left-1/2 -translate-x-1/2 ">
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className="border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaTwitter />
               </span>
 
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className="border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaFacebookF />
               </span>
 
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className="border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaInstagramSquare className=" rounded-full" />
               </span>
 
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className="border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaLinkedinIn />
               </span>
             </div>
@@ -124,19 +124,19 @@ const Team = () => {
             />
 
             <div className="social-media flex gap-1 text-4xl  absolute bottom-8 left-1/2 -translate-x-1/2 ">
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className="border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaTwitter />
               </span>
 
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className="border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaFacebookF />
               </span>
 
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className="border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaInstagramSquare className=" rounded-full" />
               </span>
 
-              <span className=" text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
+              <span className="border text-gray-50 bg-gray-950 text-2xl size-10 flex justify-center items-center rounded-full">
                 <FaLinkedinIn />
               </span>
             </div>
