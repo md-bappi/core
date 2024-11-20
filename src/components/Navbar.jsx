@@ -65,7 +65,7 @@ const Navbar = () => {
         <div className="nav-right flex justify-center items-center gap-20">
           <Link
             to="/contact"
-            className="contact-us hidden sm:block bg-lime-400 text-gray-950 font-semibold px-2 py-1 rounded-2xl border-2 border-gray-950"
+            className="contact-us hidden sm:block bg-lime-400 text-gray-950 font-semibold px-2 py-1 rounded-2xl border-2 border-gray-950 lg:py-2 lg:px-3 lg:rounded-full "
           >
             Contact Us
           </Link>

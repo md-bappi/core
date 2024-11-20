@@ -41,7 +41,7 @@ const data = [
 
 const Faqs = () => {
   return (
-    <div className="faqs">
+    <div className="faqs mt-10">
       <h2
         className="title text-center text-3xl font-semibold w-10/12 mx-auto md:text-4xl lg:text-[3.5rem]
       "
